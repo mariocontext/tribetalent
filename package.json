@@ -1,6 +1,7 @@
 {
   "name": "tribesite",
   "vapid": {
+    "site": "8c2345a8-b30f-43f2-9c51-03999e7fbf78"
   },
   "scripts": {
     "start": "vapid start ."
